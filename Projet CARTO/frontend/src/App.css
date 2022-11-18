@@ -1,0 +1,236 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/*Banner*/
+
+.banner {
+  background-image: #ffffff;
+  border-bottom: 1px black solid;
+  box-shadow: 0px 0px 10px gray;
+}
+
+.pasteur-logo {
+  width: 80%;
+  margin-left: 6%;
+}
+
+.banner-text {
+  text-align: center;
+}
+
+.login-container {
+  text-align: center;
+  background-color: #4287f5;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.login-label {
+  font-size: 14px;
+}
+
+.buttonLogin {
+  margin-top: 12px;
+  height: 25px;
+  font-size: 15px;
+  padding: 0px 10px;
+}
+
+.form-login {
+  display: inline;
+}
+
+/*Item*/
+
+.tableheader {
+  position: sticky;
+  top: 0;
+  background-color: #ffffff;
+  border-bottom: 4px solid black;
+}
+
+.table {
+  width: 100%;
+}
+
+.table-row {
+  display: table-row;
+  text-decoration: none;
+}
+
+.table-cell {
+  color: rgb(0, 0, 0);
+}
+
+.acronyme {
+  width: 100%;
+  box-shadow: rgb(168, 168, 168) 3px 3px;
+}
+
+/*Item Page*/
+
+.keyWord{
+   border: 1px solid rgb(104, 103, 103);
+   border-radius: 10px;
+   padding: 0px 10px;
+   background-color: rgb(204, 204, 204);
+}
+
+.header-project {
+  background-color: #4287f5;
+  width: 100%;
+  padding: 1%;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgb(168, 168, 168);
+}
+
+.titre-item {
+  text-align: center;
+}
+
+.coop-type {
+  text-align: right;
+}
+
+.donor {
+  background-color: rgb(173, 173, 173);
+  border-radius: 10px;
+  width: 100%;
+  padding: 1%;
+  box-shadow: 3px 3px 5px rgb(168, 168, 168);
+}
+
+.date-project {
+  text-align: right;
+}
+
+.consortium {
+  width: 100%;
+  padding: 1%;
+  background-color: #4287f5;
+  border-radius: 10px;
+  margin-top: 1%;
+}
+
+.consortium-coordinateur {
+  width: 100%;
+  padding: 1%;
+  background-color: #ffba51;
+  border-radius: 10px;
+  margin-top: 1%;
+}
+
+.right-align {
+  text-align: center;
+}
+
+.modal {
+  min-width: 50%;
+  max-width: 100%;
+}
+
+.modal-dialog {
+  width: 70%;
+  max-width: 100%;
+  min-width: 50%;
+}
+
+/* Search-Section */
+.search-section {
+  width: 95%;
+  align-self: center;
+  margin: 0 auto;
+  background-color:#4287f5;
+  border-radius: 10px;
+  padding: 1%;
+}
+
+.search-bar-L {
+  width: 80%;
+}
+
+.search-bar-s-label {
+  width: 100%;
+  margin: 5px auto;
+}
+
+.search-bar-s {
+  width: 15%;
+}
+
+
+/*Chart style*/
+
+
+.chart-container{
+  height: 500px;
+  width: 75%;
+  border: solid black 1px;
+  border-radius: 10px; 
+  padding: auto;
+  margin: 0 auto;
+  align-items: center;
+  text-align: center;
+}
+
+
+.chart-button-container{
+  padding: 15px;
+}
+
+.chart-button{
+  margin: 0 20px;
+  width: auto;
+
+}
+
+
+
+
+/* Map style */
+
+
+
+.leaflet-container{
+  height:400px;
+  width:90%;
+  margin: 5px auto;
+  border-radius: 5px;
+}
