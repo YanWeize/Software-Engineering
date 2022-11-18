@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+*.sublime*
+_site
+.sass-cache
+*.iml
+**/.idea
+**/Thumbs.db
+Gemfile.lock
+.jekyll-metadata
+node_modules/
+
+package-lock.json
+
+package.json

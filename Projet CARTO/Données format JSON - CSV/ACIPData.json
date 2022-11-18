@@ -1,0 +1,1628 @@
+[
+    {
+        "Acronyme": "ACIP-02-2014",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur D'Algérie",
+                "Pays": "Algérie",
+                "Role": "Coordinateur",
+                "Equipe": "Laboratory of Parasitic Eco-Epideiology and Populations Genetics",
+                "PI": "Zoubir HARRAT"
+            },
+            {
+                "Institution": "Institut Pasteur De Tunis",
+                "Pays": "Tunisie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Karim AOUN"
+            },
+            {
+                "Institution": "Institut Pasteur Du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "M'hammed SARIH"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Catherine BOURGOUIN"
+            }
+        ],
+        "Titre": "Knowing better the malaria vector will improving its surveillance",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2014",
+        "Datefin": "01/01/2016",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-02-2014"
+    },
+    {
+        "Acronyme": "ACIP-03-2014",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "Invasive bacterial infections Unit",
+                "PI": "Muhamed-Kheir TAHA"
+            },
+            {
+                "Institution": "Institut Pasteur Du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Aziza RAZKI"
+            },
+            {
+                "Institution": "Institut Pasteur d'Algérie",
+                "Pays": "Algérie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Hassiba TALI-MAAMAR"
+            }
+        ],
+        "Titre": "Enhancement fo the epidemiological surveillance of Invasive Meningococcal Infections for implementation of vaccine strategies",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2014",
+        "Datefin": "01/01/2016",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-03-2014"
+    },
+    {
+        "Acronyme": "ACIP-04-2014",
+        "Consortium": [
+            {
+                "Institution": "Sciensano",
+                "Pays": "Belgique",
+                "Role": "Coordinateur",
+                "Equipe": "Platform Biotechnology and Molecular Biology",
+                "PI": "Nancy ROOSENS"
+            },
+            {
+                "Institution": "Sciensano",
+                "Pays": "Belgique",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Steven VAN GUCHT"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Laure DIANCOURT"
+            },
+            {
+                "Institution": "Institut Pasteur De Nouvelle-Calédonie",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Ann-Claire GOURINAT / Myrielle DUPONT-ROUZEYROL"
+            },
+            {
+                "Institution": "Institut Pasteur de la Guyane",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Dominique ROUSSET"
+            }
+        ],
+        "Titre": "Non-invasive Diagnostic Test for Early Identification of Arbovirus Strains (Arbovirtuess)",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2014",
+        "Datefin": "01/01/2016",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-04-2014"
+    },
+    {
+        "Acronyme": "ACIP-07-2014",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "Human Genetics and Cognitive Functions Unit",
+                "PI": "Thomas BOURGERON"
+            },
+            {
+                "Institution": "Institut Pasteur Du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Abdelhamid BARAKAT"
+            },
+            {
+                "Institution": "Institut Pasteur de Tunis",
+                "Pays": "Tunisie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Sonia ABDELHAK"
+            }
+        ],
+        "Titre": "Development of standardized clinical and genetic diagnoses for autism spectrum disorders to better investigate the genetic causes of these disorders",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2014",
+        "Datefin": "01/01/2016",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-07-2014"
+    },
+    {
+        "Acronyme": "ACIP-09-2014",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur Du Laos",
+                "Pays": "Laos",
+                "Role": "Coordinateur",
+                "Equipe": "Arbovirus and Emerginf viral diseases laboratory",
+                "PI": "Marc GRANDADAM / Sompavanh SOMLOR"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Valérie CARO"
+            },
+            {
+                "Institution": "Institut Pasteur du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Philippe BUCHY"
+            }
+        ],
+        "Titre": "A better understanding of dengue circulation mode in cities in Southeast Asia through surveillance tools to develop transmission models and prevent new emergence",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2014",
+        "Datefin": "01/01/2016",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-09-2014"
+    },
+    {
+        "Acronyme": "ACIP-03-2015",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur Du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Rouet F. / J. Nouhin"
+            },
+            {
+                "Institution": "Institut Pasteur D'Hô Chi Minh-Ville",
+                "Pays": "Vietnam",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Ton T."
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Madec Y."
+            }
+        ],
+        "Titre": "Hepatitis E in Cambodia and Vietnam : is it emerging?",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2015",
+        "Datefin": "01/01/2017",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-03-2015"
+    },
+    {
+        "Acronyme": "ACIP-10-2015",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Touati E."
+            },
+            {
+                "Institution": "Institut Pasteur D'Iran",
+                "Pays": "Iran",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Mohammadi M."
+            },
+            {
+                "Institution": "Institut Pasteur du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Maachi F."
+            }
+        ],
+        "Titre": "Circulating biomarkers in geographically diverse populations with varying rates of gastric cancer: mitochondrial DNA and inflammatory factors as potential canditates",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2015",
+        "Datefin": "01/01/2017",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-10-2015"
+    },
+    {
+        "Acronyme": "ACIP-13-2015",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Tajbakhsh S."
+            },
+            {
+                "Institution": "Institut Pasteur De Tunis",
+                "Pays": "Tunisie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Yacoub H."
+            },
+            {
+                "Institution": "Institut Pasteur De Tunis",
+                "Pays": "Tunisie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Abdelhak S."
+            },
+            {
+                "Institution": "Institut Pasteur du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Mazini L."
+            }
+        ],
+        "Titre": "The impact of micro-RNAs and inflammatory pathways on stem cell fate and the regenerative process in human inherited muscle diseases",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2015",
+        "Datefin": "01/01/2017",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-13-2015"
+    },
+    {
+        "Acronyme": "ACIP-17-2015",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Montevideo",
+                "Pays": "Uruguay",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Comini M."
+            },
+            {
+                "Institution": "Institut Pasteur De Corée",
+                "Pays": "Corée",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Noo J."
+            },
+            {
+                "Institution": "Fondation Oswaldo Cruz (Fiocruz)",
+                "Pays": "Brésil",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Indiani de Oliveira C."
+            }
+        ],
+        "Titre": "Target-based drug discovery of compounds interfering with trypanothione biosynthesis in trypanosomatids",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2015",
+        "Datefin": "01/01/2017",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-17-2015"
+    },
+    {
+        "Acronyme": "ACIP-18-2015",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur Hellénique",
+                "Pays": "Grèce",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Vassilaki N."
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Neuveut C."
+            },
+            {
+                "Institution": "Institut Pasteur de Corée",
+                "Pays": "Corée",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Windisch M."
+            }
+        ],
+        "Titre": "Identification of broad-spectrum naturally derived inhibitors against hepatotropic viruses (DENV, YFV, HBV) under culture conditions simulating liver normoxic and metabolic microenvironment. The interplay between virus and hepatic normoxia as a possible disease determinant.",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2015",
+        "Datefin": "01/01/2017",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-18-2015"
+    },
+    {
+        "Acronyme": "ACIP-22-2015",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Bangui",
+                "Pays": "République Centrafricaine",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Ngoagouni C."
+            },
+            {
+                "Institution": "Institut Pasteur De Madagascar",
+                "Pays": "Madagascar",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Boyer S."
+            },
+            {
+                "Institution": "Institut Pasteur de la Guyane",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Dusfour I."
+            }
+        ],
+        "Titre": "Insecticide resistance of Aedes aegypti and Aedes albopictus from Central African Republic, Madagascar and French Guiana",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2015",
+        "Datefin": "01/01/2017",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-22-2015"
+    },
+    {
+        "Acronyme": "ACIP-01-2016",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De La Guadeloupe",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Anubis VEGA RUA"
+            },
+            {
+                "Institution": "Institut Pasteur De La Guyane",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Isabelle DUSFOUR"
+            },
+            {
+                "Institution": "Inrs - Centre Armand-Frappier Santé Biotechnologie",
+                "Pays": "Canada",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Claude GUERTIN"
+            },
+            {
+                "Institution": "INRS - Centre Armand-Frappier Santé Biotechnologie",
+                "Pays": "Canada",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Philippe CONSTANT"
+            }
+        ],
+        "Titre": "Are Ae. aegypti from “clean” breeding sites more dangerous than those from “dirty” ones? : Influence of breeding sites bacterial communities on Aedes aegypti microbiome, survival and vector competence",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2016",
+        "Datefin": "01/01/2018",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-01-2016"
+    },
+    {
+        "Acronyme": "ACIP-03-2016",
+        "Consortium": [
+            {
+                "Institution": "Sciensano",
+                "Pays": "Belgique",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "An Van den Bossche"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Jean-Yves Coppée"
+            },
+            {
+                "Institution": "Institut Pasteur de Lille",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Alain Baulard"
+            }
+        ],
+        "Titre": "Development of a novel, ultra-fast diagnostic platform for identification and drug susceptibility testing of Mycobacterium tuberculosis",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2016",
+        "Datefin": "01/01/2018",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-03-2016"
+    },
+    {
+        "Acronyme": "ACIP-06-2016",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Nouvelle-Calédonie",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Myrielle Dupont-Rouzeyrol"
+            },
+            {
+                "Institution": "Institut Pasteur Du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Veasna Duong"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Louis Lambrechts"
+            }
+        ],
+        "Titre": "Dengue virus genotype replacements: investigating viral fitness differences driving the evolution of dengue epidemics",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2016",
+        "Datefin": "01/01/2018",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-06-2016"
+    },
+    {
+        "Acronyme": "ACIP-22-2016",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Dakar",
+                "Pays": "Sénégal",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Abdou Kader Ndiaye"
+            },
+            {
+                "Institution": "Institut Pasteur De Bangui",
+                "Pays": "République Centrafricaine",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Ionela GOUANDJIKA "
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Francis Delpeyroux"
+            }
+        ],
+        "Titre": "Viral etiology abd clinical features of hand, foot and mouth disease in African Central Republic and Senegal",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2016",
+        "Datefin": "01/01/2018",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-22-2016"
+    },
+    {
+        "Acronyme": "ACIP-23-2016",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Ken McElreavey"
+            },
+            {
+                "Institution": "Institut Pasteur De Tunis",
+                "Pays": "Tunisie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Sonia Abdelhak"
+            },
+            {
+                "Institution": "Institut Pasteur du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Hamid Barakat"
+            }
+        ],
+        "Titre": "Characterization of mutations associated with human sex-reversal in the KDM family of chromatin remodeling factors.",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2016",
+        "Datefin": "01/01/2018",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-23-2016"
+    },
+    {
+        "Acronyme": "ACIP-27-2016",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Marie Flamand"
+            },
+            {
+                "Institution": "Institut Pasteur Du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Philippe Dussart"
+            },
+            {
+                "Institution": "Institut Pasteur de Corée",
+                "Pays": "Corée",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Kyu-Ho Park"
+            }
+        ],
+        "Titre": "First phase prospective study for the evaluation of candidate prognostic markers of severe dengue virus infections",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2016",
+        "Datefin": "01/01/2018",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-27-2016"
+    },
+    {
+        "Acronyme": "Venoms in ACIP (AntiCancerInnovantPolytherapy)",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Tunis",
+                "Pays": "Tunisie",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "N. Srairi-Abid"
+            },
+            {
+                "Institution": "Institut Pasteur Du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "N. Oukkache"
+            },
+            {
+                "Institution": "Institut Pasteur de Corée",
+                "Pays": "Corée",
+                "Role": "",
+                "Equipe": "",
+                "PI": "H. Seo"
+            }
+        ],
+        "Titre": "Tools for oncogenesis study and targeted therapy against Heptocellular carcinoma (HCC)",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2017",
+        "Datefin": "01/01/2019",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-05-2017"
+    },
+    {
+        "Acronyme": "ExGenMal",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur D’Italie - Fondation Cenci Bolognetti",
+                "Pays": "Italie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "B. Caputo"
+            },
+            {
+                "Institution": "Institut Pasteur De Dakar",
+                "Pays": "Sénégal",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "I. Dia"
+            },
+            {
+                "Institution": "Institut Pasteur de Côte D'Ivoire",
+                "Pays": "Côte D'Ivoire",
+                "Role": "",
+                "Equipe": "",
+                "PI": "O.A Toure"
+            }
+        ],
+        "Titre": "Exploring the hidden Genomic diversity of Anopheles gambiae and A. coluzzii species pair to account for spatial differences in malaria transmission",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2017",
+        "Datefin": "01/01/2019",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-41-2017"
+    },
+    {
+        "Acronyme": "DiaBiomark",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Tunis",
+                "Pays": "Tunisie",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "R. Kefi"
+            },
+            {
+                "Institution": "Inrs - Centre Armand-Frappier Santé Biotechnologie",
+                "Pays": "Canada",
+                "Role": "",
+                "Equipe": "",
+                "PI": "C.Ramassamy"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "P. Sansonetti"
+            }
+        ],
+        "Titre": "Better understand the physiopathological mechanism of diabetes and identify biomarkers to improve diagnosis and prevention",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2017",
+        "Datefin": "01/01/2019",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-45-2017"
+    },
+    {
+        "Acronyme": "MECrosLiv",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "P.Pineau"
+            },
+            {
+                "Institution": "Institut Pasteur Du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "S. Benjelloun"
+            },
+            {
+                "Institution": "Institut Pasteur d'Iran",
+                "Pays": "Iran",
+                "Role": "",
+                "Equipe": "",
+                "PI": "F. Roohvand"
+            }
+        ],
+        "Titre": "Better understand the impact of the gut microbiota on the liver diseases in order to prevent and slow them down",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2017",
+        "Datefin": "01/01/2019",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-57-2017"
+    },
+    {
+        "Acronyme": "Centrosome dissection of T. gondii",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Montevideo",
+                "Pays": "Uruguay",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "ME. Francia"
+            },
+            {
+                "Institution": "Institut Pasteur De Lille",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "M.Gissot"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "P. Bastin"
+            }
+        ],
+        "Titre": "Characterize structurally and functionally the centrosome components of Toxoplasma gondii, in order to identify potential novel therapeutic targets",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2017",
+        "Datefin": "01/01/2019",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-76-2017"
+    },
+    {
+        "Acronyme": "PlasmoLdHit",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur D'Iran",
+                "Pays": "Iran",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "A. Tahghighi"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "A. Blondel"
+            },
+            {
+                "Institution": "Institut Pasteur du Cameroun",
+                "Pays": "Cameroun",
+                "Role": "",
+                "Equipe": "",
+                "PI": "L. Ayong"
+            }
+        ],
+        "Titre": "Identify and characterize anti-malarial small molecules targeting the key P. falciparum protein (pfLDH) that will bring a novel concept for anti-malarial therapies",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2017",
+        "Datefin": "01/01/2019",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-93-2017"
+    },
+    {
+        "Acronyme": "AnEiCA",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Bessaud Maël"
+            },
+            {
+                "Institution": "Institut Pasteur De Bangui",
+                "Pays": "République Centrafricaine",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Gouandjika-Vasilache Ionela"
+            },
+            {
+                "Institution": "Institut Pasteur du Cameroun",
+                "Pays": "Cameroun",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Sadeuh-Mba Serge-Alain"
+            }
+        ],
+        "Titre": "Animal Enteroviruses in Central Africa, from field to assay tubes: search for zoonotic enterovirus transmission and study of genetic exchanges between animal and human enteroviruses.",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2019",
+        "Datefin": "01/01/2021",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-162-2019"
+    },
+    {
+        "Acronyme": "DeSiReS: Dengue Severe Immune Response Studies",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur D’Italie - Fondation Cenci Bolognetti",
+                "Pays": "Italie",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Scagnolari Carolina"
+            },
+            {
+                "Institution": "Institut Pasteur Du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Cantaert Tineke"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Duffy Darragh"
+            },
+            {
+                "Institution": "Institut Pasteur de Côte D'Ivoire",
+                "Pays": "Côte D'Ivoire",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Coulibaly Ibrahima Zanakoungo"
+            }
+        ],
+        "Titre": "Dengue virus-mosquito-host interactions: assessing type I interferon mediated immune processes and immunological effects of mosquito salivary glands on Dengue infection",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2019",
+        "Datefin": "01/01/2021",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-221-2019"
+    },
+    {
+        "Acronyme": "paratransgenesis based on RNAi and Asaia bacterium in Anopheles",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur D'Iran",
+                "Pays": "Iran",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Raz Abbasali"
+            },
+            {
+                "Institution": "Institut Pasteur De La Guyane",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Gendrin Mathilde"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Mitri Christian"
+            }
+        ],
+        "Titre": "Engineering Asaia to induce RNA interference in larval and adult Anopheles: a tool for vector genetics and paratransgenesis",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2019",
+        "Datefin": "01/01/2021",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-253-2019"
+    },
+    {
+        "Acronyme": "ETHOMOS",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De La Guyane",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Duchemin Jean-Bernard"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Vestergaard Christian"
+            },
+            {
+                "Institution": "Cermes Niger",
+                "Pays": "Niger",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Labbo Rabiou"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Imbert Albane"
+            }
+        ],
+        "Titre": "Ethomics for mosquitoes",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2019",
+        "Datefin": "01/01/2021",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-255-2019"
+    },
+    {
+        "Acronyme": "SURVEV68",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Dakar",
+                "Pays": "Sénégal",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Dia Ndongo"
+            },
+            {
+                "Institution": "Institut Pasteur De Côte D'Ivoire",
+                "Pays": "Côte D'Ivoire",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Adagba Marius / Hervé Kadjo "
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Bessaud Mael"
+            }
+        ],
+        "Titre": "Enterovirus 68 investigation in children with acute respiratory infection and acute flaccid myelitis in two Subsaharan african countries.",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2019",
+        "Datefin": "01/01/2021",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-275-2019"
+    },
+    {
+        "Acronyme": "E-DYNAMICS",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Nouvelle-Calédonie",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Dupont-Rouzeyrol Myrielle/ Inizan Catherine"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Tarantola Arnaud"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Simon-Lorière Etienne"
+            },
+            {
+                "Institution": "Institut Pasteur du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Cantaert Tineke"
+            }
+        ],
+        "Titre": "DETERMINANTS OF THE EXPANSION OF DENGUE MINORITY SEROTYPES",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2019",
+        "Datefin": "01/01/2021",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-281-2019"
+    },
+    {
+        "Acronyme": "DEHBV",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Vartanian Jean-Pierre"
+            },
+            {
+                "Institution": "Institut Pasteur Of Shanghai, Chinese Academy Of Sciences",
+                "Pays": "Chine",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Wei Yu"
+            },
+            {
+                "Institution": "Institut Pasteur du Laos",
+                "Pays": "Laos",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Virachith Siriphone "
+            }
+        ],
+        "Titre": "Targeting hepatitis B virus cccDNA by cellular nucleases: towards viral elimination of chronic hepatitis B",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-318-2020"
+    },
+    {
+        "Acronyme": "m6A_RAIAV",
+        "Consortium": [
+            {
+                "Institution": "Stephan Angeloff Institute Of Microbiology",
+                "Pays": "Bulgarie",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Leseva Milena"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Hasan Milena"
+            },
+            {
+                "Institution": "Sciensano",
+                "Pays": "Belgique",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Barbezange Cyril"
+            }
+        ],
+        "Titre": "The lung epitranscriptome and chromatin accessibility landscape in rheumatoid arthritis complicated by the flu",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-328-2020"
+    },
+    {
+        "Acronyme": "EVoSP",
+        "Consortium": [
+            {
+                "Institution": "Fondation Oswaldo Cruz (Fiocruz)",
+                "Pays": "Brésil",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Galvao Teca"
+            },
+            {
+                "Institution": "Fondation Oswaldo Cruz (Fiocruz)",
+                "Pays": "Brésil",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Carvalho-Assef Ana Paula"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Mechaly Ariel"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Le Meur Remy"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Buschiazzo Alejandro"
+            }
+        ],
+        "Titre": "Evolution of regulatory interactions through the lens of antibiotic selective pressure  ",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-358-2020"
+    },
+    {
+        "Acronyme": "FleaVec",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Madagascar",
+                "Pays": "Madagascar",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Harimalala Mireille"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Pizarro-Cerda Javier"
+            },
+            {
+                "Institution": "Institut Pasteur de Lille",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Sebbane Florent"
+            }
+        ],
+        "Titre": "Investigating flea vectors towards understanding human bubonic plague persistence in Madagascar",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-363-2020"
+    },
+    {
+        "Acronyme": "VITAL",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "Vray Muriel"
+            },
+            {
+                "Institution": "Institut Pasteur De La Guyane",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Flamand Claude"
+            },
+            {
+                "Institution": "Institut Pasteur de Bangui",
+                "Pays": "République Centrafricaine",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Malaka Christian"
+            }
+        ],
+        "Titre": "Ascorbate-deficiency: a novel diarrhea risk-factor?",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-399-2020"
+    },
+    {
+        "Acronyme": "RESIST-3",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coodinateur",
+                "Equipe": "",
+                "PI": "Tarantola Aranud"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Bourhy Hervé"
+            },
+            {
+                "Institution": "Institut Pasteur De Madagascar",
+                "Pays": "Madagascar",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Randremanana Rindra"
+            },
+            {
+                "Institution": "Institut Pasteur De Madagascar",
+                "Pays": "Madagascar",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Philippe Dussart"
+            },
+            {
+                "Institution": "Institut Pasteur Du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Ly Sowath"
+            },
+            {
+                "Institution": "Institut Pasteur Du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Duong Veasna"
+            },
+            {
+                "Institution": "Institut Pasteur du Cambodge",
+                "Pays": "Cambodge",
+                "Role": "",
+                "Equipe": "",
+                "PI": "Cantaert Tineke"
+            }
+        ],
+        "Titre": "Antibody persistence after abridged intradermal rabies PEP: The RESIST-3 study ",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-403-2020"
+    },
+    {
+        "Acronyme": "MitoExtract",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "WAI Timothy"
+            },
+            {
+                "Institution": "Institut Pasteur De Nouvelle-Calédonie",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "MATSUI Mariko"
+            },
+            {
+                "Institution": "Institut Pasteur de Corée",
+                "Pays": "Corée",
+                "Role": "",
+                "Equipe": "",
+                "PI": "LEE Honggun"
+            }
+        ],
+        "Titre": "Identification of therapeutic naturally-occurring compounds and extracts for mitochondrial diseases.",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-443-2021"
+    },
+    {
+        "Acronyme": "LeptOneHealth",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur De Madagascar",
+                "Pays": "Madagascar",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "RAHELINIRINA Soanandrasana"
+            },
+            {
+                "Institution": "Institut Pasteur De Côte D'Ivoire",
+                "Pays": "Côte D'Ivoire",
+                "Role": "",
+                "Equipe": "",
+                "PI": "KOFFI Stephane"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "BOURHY Pascale"
+            }
+        ],
+        "Titre": "Assesment of prevalence of Leptospira spp and interaction between environment, animals and human leptospirosis in a periurban areas in Africa",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-445-2021"
+    },
+    {
+        "Acronyme": "MUSICAL",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "CAILLET-SAGUY Célia"
+            },
+            {
+                "Institution": "Institut Pasteur Du Maroc",
+                "Pays": "Maroc",
+                "Role": "",
+                "Equipe": "",
+                "PI": "CHAROUTE Hicham"
+            },
+            {
+                "Institution": "Institut Pasteur d’Italie - Fondation Cenci Bolognetti",
+                "Pays": "Italie",
+                "Role": "",
+                "Equipe": "",
+                "PI": "GIANNI Stefano"
+            }
+        ],
+        "Titre": "Myosins-USher2 proteIns Complexes in heAring Loss",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-485-2021"
+    },
+    {
+        "Acronyme": "AVATAR",
+        "Consortium": [
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "Coordinateur",
+                "Equipe": "",
+                "PI": "VANHOMWEGEN Jessica"
+            },
+            {
+                "Institution": "Institut Pasteur (Paris)",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "JOUVENET Nolwenn"
+            },
+            {
+                "Institution": "Plateforme Scientifique Pasteur - Usp",
+                "Pays": "Brésil",
+                "Role": "",
+                "Equipe": "",
+                "PI": "DURIGON Edison Luiz"
+            },
+            {
+                "Institution": "Institut Pasteur de la Guyane",
+                "Pays": "France",
+                "Role": "",
+                "Equipe": "",
+                "PI": "LAVERGNE Anne"
+            }
+        ],
+        "Titre": "AVian Arbovirus testing, Transmission Analysis and Risk mapping",
+        "TypeCoop": "ACIP",
+        "Budget": "",
+        "Bailleur": "Institut Pasteur",
+        "Datedebut": "01/01/2020",
+        "Datefin": "01/01/2022",
+        "Motcle1": "",
+        "Motcle2": "",
+        "Motcle3": "",
+        "Motcle4": "",
+        "Motcle5": "",
+        "Resume": "",
+        "ReferenceProjet": "ACIP-489-2021"
+    }
+]

@@ -1,0 +1,279 @@
+[
+  {
+    "title": {
+      "fr": "PROCEDE DE TRANSMISSION DE DOCUMENTS ET/OU D'INFORMATIONS AVEC AUTHENTIFICATION PERENNE",
+      "en": "METHOD FOR TRANSMITTING DOCUMENTS AND/OR INFORMATION WITH PERMANENT AUTHENTICATION",
+      "default": ""
+    },
+    "grantedDate": "2016-03-01T00:00:00",
+    "summary": {
+      "fr": "Procédé d'authentification d'un document comprenant les étapes suivantes : - lors de la création d'un document original, celui-ci est envoyé par une entité détentrice à une entité de gestion d'authentification afin que ce document soit stocké dans un site de stockage sécurisé et que toute délivrance de copie authentifiée et/ou de copie authentifiable soit gérée par l'entité de gestion d'authentification, - lors d'une requête de copie authentifiée par une entité requérante, l'entité détentrice effectue une requête de reproduction via un système de reproduction adapté contrôlé par l'entité de gestion d'authentification afin d'obtenir une copie authentifiable de transmission, - l'entité requérante utilise la copie authentifiable de transmission pour effectuer une requête de reproduction via un système de reproduction adapté afin d'obtenir une copie authentifiée délivrée sous le contrôle de l'entité de gestion d'authentification.",
+      "en": "A method for authenticating a document comprising the following steps: - when creating an original document, said document is sent by a holding entity to an authentication management entity in order for said document to be stored at a secure storage site and for any delivery of an authenticated copy and/or authenticatable copy to be managed by the authentication management entity, - when a request for an authenticated copy is made by a requesting entity, the holding entity makes a duplication request via a suitable duplication system controlled by the authentication management entity in order to obtain an authenticatable transmission copy, - the requesting entity uses the authenticatable transmission copy to make a duplication request via a suitable duplication system in order to obtain an authenticated copy delivered under the control of the authentication management entity.",
+      "default": ""
+    },
+    "submissionDate": "2012-01-26T00:00:00",
+    "publicationDate": "2013-08-01T00:00:00",
+    "inventionKind": "brevet",
+    "inpadocFamily": "364727604",
+    "isOeb": true,
+    "isInternational": true,
+    "domains": [
+      {
+        "level": "ss_classe",
+        "code": "G06F",
+        "type": "cpc",
+        "label": {
+          "default": "ELECTRIC DIGITAL DATA PROCESSING"
+        }
+      },
+      {
+        "level": "ss_classe",
+        "code": "G06Q",
+        "type": "cpc",
+        "label": {
+          "default": "DATA PROCESSING SYSTEMS OR METHODS, SPECIALLY ADAPTED FOR ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL, SUPERVISORY OR FORECASTING PURPOSES SYSTEMS OR METHODS SPECIALLY ADAPTED FOR ADMINISTRATIVE, COMMERCIAL, FINANCIAL, MANAGERIAL, SUPERVISORY OR FORECASTING PURPOSES, NOT OTHERWISE PROVIDED FOR"
+        }
+      },
+      {
+        "level": "ss_classe",
+        "code": "H04N",
+        "type": "cpc",
+        "label": {
+          "default": "PICTORIAL COMMUNICATION, e.g. TELEVISION"
+        }
+      },
+      {
+        "level": "classe",
+        "code": "G06",
+        "type": "cpc",
+        "label": {
+          "default": "COMPUTING CALCULATING COUNTING"
+        }
+      },
+      {
+        "level": "classe",
+        "code": "H04",
+        "type": "cpc",
+        "label": {
+          "default": "ELECTRIC COMMUNICATION TECHNIQUE"
+        }
+      },
+      {
+        "level": "section",
+        "code": "G",
+        "type": "cpc",
+        "label": {
+          "default": "PHYSICS"
+        }
+      },
+      {
+        "level": "section",
+        "code": "H",
+        "type": "cpc",
+        "label": {
+          "default": "ELECTRICITY"
+        }
+      },
+      {
+        "level": "ss_classe",
+        "code": "G06K",
+        "type": "cpc",
+        "label": {
+          "default": "RECOGNITION OF DATA PRESENTATION OF DATA RECORD CARRIERS HANDLING RECORD CARRIERS"
+        }
+      }
+    ],
+    "projects": null,
+    "patents": [
+      {
+        "id": "FR20120050742",
+        "isPriority": true,
+        "ipType": "PI",
+        "office": "FR",
+        "applicationDate": "2012-01-26T00:00:00",
+        "applicationNumber": "1250742",
+        "internatApplicationNumber": "",
+        "publicationDate": "2013-08-02T00:00:00",
+        "publicationNumber": "2986350A1",
+        "grantedDate": null,
+        "links": [
+          {
+            "type": "",
+            "url": "https://worldwide.espacenet.com/patent/search/?q=pn%3D%22FR2986350A1%22",
+            "label": "espacenet"
+          }
+        ]
+      },
+      {
+        "id": "EP20130710034",
+        "isPriority": false,
+        "ipType": "PI",
+        "office": "EP",
+        "applicationDate": "2013-01-24T00:00:00",
+        "applicationNumber": "13710034",
+        "internatApplicationNumber": "381581789",
+        "publicationDate": "2014-12-03T00:00:00",
+        "publicationNumber": "2807818A1",
+        "grantedDate": null,
+        "links": [
+          {
+            "type": "",
+            "url": "https://worldwide.espacenet.com/patent/search/?q=pn%3D%22EP2807818A1%22",
+            "label": "espacenet"
+          }
+        ]
+      },
+      {
+        "id": "WO2013IB50608",
+        "isPriority": false,
+        "ipType": "PI",
+        "office": "WO",
+        "applicationDate": "2013-01-24T00:00:00",
+        "applicationNumber": "IB2013/050608",
+        "internatApplicationNumber": "",
+        "publicationDate": "2013-08-01T00:00:00",
+        "publicationNumber": "2013111082A1",
+        "grantedDate": null,
+        "links": [
+          {
+            "type": "",
+            "url": "https://worldwide.espacenet.com/patent/search/?q=pn%3D%22WO2013111082A1%22",
+            "label": "espacenet"
+          }
+        ]
+      },
+      {
+        "id": "US201314374779",
+        "isPriority": false,
+        "ipType": "PI",
+        "office": "US",
+        "applicationDate": "2013-01-24T00:00:00",
+        "applicationNumber": "14374779",
+        "internatApplicationNumber": "381581789",
+        "publicationDate": "2015-02-12T00:00:00",
+        "publicationNumber": "2015043025A1",
+        "grantedDate": "2016-03-01T00:00:00",
+        "links": [
+          {
+            "type": "",
+            "url": "https://worldwide.espacenet.com/patent/search/?q=pn%3D%22US2015043025A1%22",
+            "label": "espacenet"
+          }
+        ]
+      }
+    ],
+    "authors": [
+      {
+        "typeParticipant": "pp",
+        "fullName": "Lahmi Paul",
+        "country": "FR",
+        "rolePatent": [
+          {
+            "role": "dep",
+            "description": "dep"
+          },
+          {
+            "role": "inv",
+            "description": "inv"
+          }
+        ],
+        "affiliations": []
+      }
+    ],
+    "affiliations": [],
+    "year": 2012,
+    "id": "47891803",
+    "productionType": "patent",
+    "linkedProductions": []
+  },
+  {
+    "title": {
+      "fr": "",
+      "en": "",
+      "default": "Verfahren zur Ansteuerung eines Gargeräts"
+    },
+    "grantedDate": null,
+    "summary": {
+      "fr": "",
+      "en": "",
+      "default": "Ein Verfahren zur Ansteuerung eines Gargeräts ist beschrieben, das zumindest zwei Magnetrons (10, 12, 14) umfasst, die gemeinsam eine Gesamtleistung erzeugen, die in mehrere Leistungsbereiche (L1, L2) unterteilbar ist, wobei die Magnetrons (10, 12, 14) getaktet geschaltet und zumindest in einem bestimmten Leistungsbereich (L1) teilweise gleichzeitig in Betrieb sind."
+    },
+    "submissionDate": "2013-08-28T00:00:00",
+    "publicationDate": "2015-03-05T00:00:00",
+    "inventionKind": "brevet",
+    "inpadocFamily": "437104134",
+    "isOeb": false,
+    "isInternational": false,
+    "domains": [
+      {
+        "level": "ss_classe",
+        "code": "H05B",
+        "type": "cpc",
+        "label": {
+          "default": "ELECTRIC HEATING ELECTRIC LIGHTING NOT OTHERWISE PROVIDED FOR"
+        }
+      },
+      {
+        "level": "classe",
+        "code": "H05",
+        "type": "cpc",
+        "label": {
+          "default": "ELECTRIC TECHNIQUES NOT OTHERWISE PROVIDED FOR"
+        }
+      },
+      {
+        "level": "section",
+        "code": "H",
+        "type": "cpc",
+        "label": {
+          "default": "ELECTRICITY"
+        }
+      }
+    ],
+    "projects": null,
+    "patents": [
+      {
+        "id": "DE201310109300",
+        "isPriority": false,
+        "ipType": "PI",
+        "office": "DE",
+        "applicationDate": "2013-08-28T00:00:00",
+        "applicationNumber": "102013109300",
+        "internatApplicationNumber": "",
+        "publicationDate": "2015-03-05T00:00:00",
+        "publicationNumber": "102013109300A1",
+        "grantedDate": null,
+        "links": [
+          {
+            "type": "",
+            "url": "https://worldwide.espacenet.com/patent/search/?q=pn%3D%22DE102013109300A1%22",
+            "label": "espacenet"
+          }
+        ]
+      }
+    ],
+    "authors": [
+      {
+        "typeParticipant": "pm",
+        "fullName": "Topinox Sarl",
+        "country": "FR",
+        "rolePatent": [
+          {
+            "role": "dep",
+            "description": "dep"
+          }
+        ],
+        "affiliations": [
+          "345178545"
+        ]
+      }
+    ],
+    "affiliations": [
+      "345178545"
+    ],
+    "year": 2013,
+    "id": "52470122",
+    "productionType": "patent",
+    "linkedProductions": []
+  }
+]

@@ -1,0 +1,4545 @@
+[
+    {
+      "id": "11334",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "19043",
+      "Institution": "GLAXOSMITHKLINE BIOLOGICALS SA",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "19043",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19043",
+      "Institution": "UNIVERSITEIT GENT",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19043",
+      "Institution": "ASSITANCE PUBLIQUE - HÔPITAUX DE PARIS - CIC COCHIN",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19043",
+      "Institution": "ST. GEORGE'S - UNIVERSITY OF LONDON (PREV.: ST. GEORGE'S HOSPITAL MEDICAL SCHOOL)",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19043",
+      "Institution": "THE HEALTH PROTECTION AGENCY",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "UNIVERSITY COLLEGE LONDON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "INSTITUT NATIONAL DE LA SANTÉ ET DE LA RECHERCHE MÉDICALE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "ALBERT-LUDWIGS-UNIVERSITÄT FREIBURG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "UNIVERSITÀ DEGLI STUDI DI PADOVA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "MAX-PLANCK-GESELLSCHAFT ZUR FÖRDERUNG DER WISSENSCHAFTEN E.V.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "503496",
+      "Institution": "GENOME RESEARCH LTD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "CENTRE EUROPEEN DE LA RECHERCHE EN BIOLOGIE ET EN MEDECINE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "HUBRECHT LABORATORY, NETHERLANDS INSTITUTE FOR DEVELOPMENTAL BIOLOGY",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "THE UNIVERSITY OF SHEFFIELD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "UNIVERSITY OF BERGEN",
+      "Pays": "Norvège",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "GSF-NATIONAL RESEARCH CENTRE FOR ENVIRONMENT AND HEALTH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "LEIDEN UNIVERSITY",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "SWISS FEDERAL INSTITUTE OF TECHNOLOGY, ZURICH",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "FORSCHUNGSZENTRUM KARLSRUHE GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "TECHNISCHE UNIVERSITÄT DRESDEN",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "UNIVERSITÄT ZÜRICH",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "GENE BRIDGES GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503496",
+      "Institution": "THE RECTORS AND VISITORS OF THE UNIVERSITY OF VIRGINIA",
+      "Pays": "États-Unis",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "285837_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "261472_239260_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "261365_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "295097_PS",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "245872_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "278433_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "223414_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "811034",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "811034",
+      "Institution": "ROBERT KOCH-INSTITUT",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "811034",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "811034",
+      "Institution": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "811034",
+      "Institution": "FUNDACIO CENTRE DE REGULACIO GENOMICA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "665807",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "665807",
+      "Institution": "UNIVERSITE PARIS CITE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "665807",
+      "Institution": "SORBONNE UNIVERSITE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "146541-start-of-the-new-twinning-project-led-by-institut-pasteur-de-tunis-to-strengthen-its-capabili",
+      "Institution": "Institut Pasteur of Tunis",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "282378_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "295097",
+      "Institution": "SYNBEA SARL",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "295097",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "295097",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "24142",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "217768",
+      "Institution": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "217768",
+      "Institution": "GlaxoSmithKline Vaccines Srl",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "217768",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "217768",
+      "Institution": "KAROLINSKA INSTITUTET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "217768",
+      "Institution": "MAX-PLANCK-GESELLSCHAFT ZUR FORDERUNG DER WISSENSCHAFTEN EV",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "INSTITUTE OF EXPERIMENTAL MEDICINE, ACADEMY OF SCIENCES OF THE CZECH REPUBLIC",
+      "Pays": "Tchéquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "INSTITUT NATIONAL DE LA SANTÉ ET DE LA RECHERCHE MÉDICALE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "UNIVERSITY OF BRISTOL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "UNIVERSITY OF SEVILLE",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "KAROLINSKA INSTITUTET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "NENCKI INSTITUTE OF EXPERIMENTAL BIOLOGY OF THE POLISH ACADEMY OF SCIENCES",
+      "Pays": "Pologne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "MAX-PLANCK-GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "19063",
+      "Institution": "UNIVERSITÉ RENÉ DESCARTES",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "UNIVERSITÄTSMEDIZIN GÖTTINGEN - GEORG-AUGUST-UNIVERSITÄT GÖTTINGEN - STIFTUNG ÖFFENTLICHEN RECHTS",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "UNIVERSITY COLLEGE LONDON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "UNIVERSIDAD MIGUEL HERNANDEZ",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "19063",
+      "Institution": "ECOLE POLYTECHNIQUE FÉDÉRALE DE LAUSANNE",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "24142_PS",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "692022",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "692022",
+      "Institution": "INSTITUTO DE MEDICINA MOLECULAR JOAO LOBO ANTUNES",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "692022",
+      "Institution": "THE FRANCIS CRICK INSTITUTE LIMITED",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "THE PROVOST, FELLOWS AND SCHOLARS OF THE COLLEGE OF THE HOLY AND UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN HEREINAFTER TRINITY COLLEGE DUBLIN",
+      "Pays": "Irlande",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "Institut National de la Recherche Agronomique (INRA)",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "Rijksuniversiteit Groningen",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "Consejo Superior de Investigaciones Científicas",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "EniTecnologie S.p.A.",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2930272",
+      "Institution": "UNIVERSITA DEGLI STUDI DI PAVIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "317057_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "VRIJE UNIVERSITEIT AMSTERDAM - VERENIGING VOOR CHRISTELIJK WETENSCHAPPELIJK ONDERWIJS",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "BBSRC Institute of Food Research",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "Johann-Wolfgang-Goethe Universitat Frankfurt",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "UNIVERSITE DE LIEGE",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "UNIVERSITE DE PARIS-SUD XI",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "Humboldt-Universität zu Berlin",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO2942011",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "147122-phindaccess-seminar-on-research-funding-opportunities-and-best-practices",
+      "Institution": "Institut Pasteur de Tunis",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "MRC National Institute for Medical Research",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "LONDON SCHOOL OF HYGIENE AND TROPICAL MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "University of Surrey",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "MICROBIOLOGICAL RESEARCH AUTHORITY",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "INSTITUT PASTEUR DE LILLE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "GBF - NATIONAL CENTRE FOR BIOTECHNOLOGY",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "THE MINISTER OF AGRICULTURE, FISHERIES AND FOOD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "SMITHKLINE BEECHAM BIOLOGICALS S.A",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "SWEDISH INSTITUTE FOR INFECTIOUS DISEASE CONTROL",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "STATENS SERUM INSTITUT",
+      "Pays": "Danemark",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "AUTONOMOUS UNIVERSITY OF BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "THE QUEEN'S UNIVERSITY OF BELFAST",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "UNIVERSITY OF ERLANGEN-NUREMBERG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "UNIVERSIDAD DE ZARAGOZA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "AVENTIS PASTEUR SA",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "FOUNDATION BIOMEDICAL PRIMATE RESEARCH CENTRE",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "MINISTERE AUX AFFAIRES SOCIALES A LA SANTE PUBLIQUE ET A L'ENVIRONNEMENT",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "IMPERIAL COLLEGE OF SCIENCE, TECHNOLOGY AND MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "LEIDEN UNIVERSITY",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "MAX-PLANCK-GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "UNIVERSITAET BASEL",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "NATIONAL BIOLOGICAL STANDARDS BOARD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "INSTITUTE FOR INFECTIOUS DISEASES \"LAZZARO SPALLANZANI\"",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "ID LELYSTAD - INSTITUTE FOR ANIMAL HEALTH AND SCIENCE",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "THE ROYAL VETERINARY COLLEGE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "QLK2-CT-1999-01093",
+      "Institution": "UNIVERSITY OF ZURICH",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30032_40156_DELIV",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "101033485",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "707128",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "732432",
+      "Institution": "THEMIS BIOSCIENCE GMBH",
+      "Pays": "Autriche",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "732432",
+      "Institution": "COMMISSARIAT A L ENERGIE ATOMIQUE ET AUX ENERGIES ALTERNATIVES",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "732432",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "732432",
+      "Institution": "EUROPEAN VACCINE INITIATIVE EWIV",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "20311",
+      "Institution": "ALTA RICERCA E SVILUPPO IN BIOTECNOLOGIE S.R.L.",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "20311",
+      "Institution": "MAX PLANCK GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "20311",
+      "Institution": "IMPERIAL COLLEGE OF SCIENCE, TECHNOLOGY AND MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "20311",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "20311",
+      "Institution": "CHIRON S.R.L.",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "20311",
+      "Institution": "NOVARTIS VACCINES AND DIAGNOSTICS SRL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "20311",
+      "Institution": "KAROLINSKA INSTITUTET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "THE PROVOST, FELLOWS AND SCHOLARS OF THE COLLEGE OF THE HOLY AND UNDIVIDED TRINITY OF QUEEN ELIZABETH NEAR DUBLIN HEREINAFTER TRINITY COLLEGE DUBLIN",
+      "Pays": "Irlande",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "Institut National de la Recherche Agronomique",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "UNIVERSITY OF NEWCASTLE UPON TYNE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "UNIVERSITA DEGLI STUDI DI PAVIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "International Centre for Genetic Engineering and Biotechnology",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "Université de Lausanne",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "UNIVERSITY OF GRONINGEN",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "QIAGEN GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "SCIENTIFIC RESEARCH AND DEVELOPMENT GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "AGOWA - Gesellschaft fur Molekularbiologische Technologie mbH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "GATC - Gesellschaft fur Analyse-Technik und Consulting mbH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "Università degli Studi di Padova",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4960655",
+      "Institution": "Genotype GmbH, Molekularbiologische und biotechnologische Forschung",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "604237_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "201222_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "9551",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "794979",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "302395",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "101028544",
+      "Institution": "PRESIDENT AND FELLOWS OF HARVARD COLLEGE",
+      "Pays": "États-Unis",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "101028544",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "871129",
+      "Institution": "INSTITUT OF THE RUSSIAN ACADEMY OF SCIENCES SKRYABIN INSTITUTE OF BIOCHEMISTRY AND PHYSIOLOGY OF MICROORGANISMS RAS",
+      "Pays": "Russie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSIDADE DO MINHO",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSITE DE LIEGE",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "871129",
+      "Institution": "Associação CCG/ZGDV - Centro de Computação Gráfica",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSIDAD DE LAS PALMAS DE GRAN CANARIA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "KONINKLIJKE NEDERLANDSE AKADEMIE VAN WETENSCHAPPEN - KNAW",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "SOCIEDADE PORTUGUESA DE INOVACAO CONSULTADORIA EMPRESARIAL E FOMENTO DA INOVACAO SA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSITAT DE VALENCIA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSITA DEGLI STUDI DI TORINO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "871129",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "IRCCS OSPEDALE POLICLINICO SAN MARTINO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "871129",
+      "Institution": "LATVIJAS UNIVERSITATE",
+      "Pays": "Lettonie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "INSTYTUT BIOTECHNOLOGII PRZEMYSLU ROLNO-SPOZYWCZEGO IM PROF WACLAWA DABROWSKIEGO - PANSTWOWY INSTYTUT BADAWCZY",
+      "Pays": "Pologne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "Service Public Fédéral de Programmation Politique Scientifique (Belspo)",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE, L'ALIMENTATION ET L'ENVIRONNEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSITA DEGLI STUDI DI PERUGIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "871129",
+      "Institution": "UNIVERSITA DEGLI STUDI DI MODENA E REGGIO EMILIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "871129",
+      "Institution": "SCIENSANO",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "FMBI972803",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI972803",
+      "Institution": "Not available",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "FMBI961782",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI961782",
+      "Institution": "Not available",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "MR4*0108",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "MR4*0015",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "MAT1920025",
+      "Institution": "INSTITUT PASTEUR DE LILLE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "147548-seminar-strengthening-best-practices-for-biospecimen-collection-omics-data-sampling-and-handl",
+      "Institution": "Institut Pasteur de Tunis",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "147707-phindaccess-course-ngs-rnaseq-rna-sequencing-data-analysis",
+      "Institution": "Institut Pasteur de Tunis",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "628355_239765_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "302395_PS",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "24611_PS",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "23188_PS",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "relatedOrganization"
+    },
+    {
+      "id": "FMBI972762",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI972762",
+      "Institution": "Not available",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "HPMT-CT-2001-00275",
+      "Institution": "INSTITUT PASTEUR DE LILLE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "501066",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "24611",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI972756",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI972756",
+      "Institution": "Not available",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "Universidad Del Valle",
+      "Pays": "Colombie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "International Centre for Genetic Engineering and Biotechnology",
+      "Pays": "Inde",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "Katholieke Universiteit Nijmegen - Stichting Katholieke Universiteit",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "MRC National Institute for Medical Research",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "NATIONAL INSTITUTE FOR MEDICAL RESEARCH",
+      "Pays": "Tanzanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "Statens Serum Institut",
+      "Pays": "Danemark",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "FOUNDATION BIOMEDICAL PRIMATE RESEARCH CENTRE",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950020",
+      "Institution": "Universitá degli Studi di Roma 'La Sapienza'",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4980354",
+      "Institution": "Katholieke Universiteit Leuven",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4980354",
+      "Institution": "King's College London",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4980354",
+      "Institution": "UNIVERSITAT DE BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4980354",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "BIO4980354",
+      "Institution": "EUROPEAN SYNCHROTRON RADIATION FACILITY",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "BIO4980354",
+      "Institution": "Chiroscience R&D Ltd",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITE CATHOLIQUE DE LOUVAIN",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "LONDON SCHOOL OF HYGIENE AND TROPICAL MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "ISTITUTO SUPERIORE DI SANITA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "THE NATURAL HISTORY MUSEUM",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "HELSINGIN YLIOPISTO",
+      "Pays": "Finlande",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "CENTRE FOR COMMUNICABLE DISEASES PREVENTION AND CONTROL",
+      "Pays": "Lituanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITEIT UTRECHT",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT PASTEUR D'ALGERIE",
+      "Pays": "Algérie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "EUROPEAN AGRO-ENVIRONMENTAL HEALTH ASSOCIATES EEIG",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT DE RECHERCHE POUR LE DÉVELOPPEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUTE FOR MICROBIOLOGY AND IMMUNOLOGY, MEDICAL FACULTY OF LJUBLJANA",
+      "Pays": "Slovénie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUTUL NATIONAL DE CERCETARE DEZVOLTARE DELTA DUNARI",
+      "Pays": "Roumanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "CENTRO DI ECOLOGIA ALPINA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "CENTRE DE COOPERATION INTERNATIONAL EN RECHERCHE AGRONOMIQUE POUR LE DEVELOPPEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITA DEGLI STUDI DI ROMA \"LA SAPIENZA\"",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELL'ABRUZZO E DEL MOLISE \"G. CAPORALE\" DI TERAMO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUTO DE SALUD CARLOS III.",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "ENTENTE INTERDEPARTEMENTALE POUR LA DEMOUSTICATION DU LITTORAL MEDITERRENEEN",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "USTAV BIOLOGIE OBRATLOVCU - AKADEMIE VED CESKE REPUBLIKY VEREJNA VYZKUMNA INSTITUCE",
+      "Pays": "Tchéquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "HACETTEPE UNIVERSITESI",
+      "Pays": "Turquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUTO DE HIGIENE E MEDICINA TROPICAL - UNIVERSIDADE NOVA DE LISBOA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT NATIONAL D'HYGIENE",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITAT DE VALENCIA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "DEPARTMENT OF INFECTIOUS DISEASES AND NEUROINFECTIONS, MEDICAL ACADEMY, BYALISTOK",
+      "Pays": "Pologne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "LUDWIG-MAXIMILIANS-UNIVERSITAET MUENCHEN",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "SLOVAK ACADEMY OF SCIENCES.",
+      "Pays": "Slovaquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "TERVISE ARENGU INSTITUUT - NATIONAL HEALTH DEVELOPMENT INSTITUTE",
+      "Pays": "Estonie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUTO VASCO DE INVESTIGACION Y DESAROLLO AGRARIO- NEIKER AB",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "ORSZAGOS EPIDEMIOLOGIAI KOSPONT",
+      "Pays": "Hongrie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "V/A \"SABIEDRIBAS VESELIBAS AGENTURA\" PUBLIC HEALTH AGENCY",
+      "Pays": "Lettonie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "METSANTUTKIMUSLAITOS",
+      "Pays": "Finlande",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT NATIONAL DE LA RECHERCHE AGRONOMIQUE (INRA)",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "SMITTSKYDDSINSTITUTET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITEIT ANTWERPEN",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "THE UNIVERSITY OF LIVERPOOL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "EGE UNIVERSITY SCIENCE & TECHNOLOGY CENTER",
+      "Pays": "Turquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "SZENT ISTVAN EGYETEM",
+      "Pays": "Hongrie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITAT DE BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITE MONTPELLIER I.",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "UNIVERSITY OF CRETE.",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT AGRONOMIQUE ET VETERINAIRE HASSAN II",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT SENEGALAIS DE RECHERCHES AGRICOLES - ISRA",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "NATIONAL INSTITUTE OF RESEARCH - DEVELOPMENT FOR MICROBIOLOGY",
+      "Pays": "Roumanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "CONSEJO SUPERIOR DE INVESTIGACIONES CIENTÍFICAS",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "ALLATORVOS-TUDOMANYI KUTATOINTEZETE - MAGYAR TUDOMANYOS AKADEMIA",
+      "Pays": "Hongrie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "INSTITUT PASTEUR DE DAKAR",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "AVIA-GIS",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "10284",
+      "Institution": "FONDAZIONE EDMUND MACH",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "FCIENCIAS.ID - ASSOCIACAO PARA A INVESTIGACAO E DESENVOLVIMENTO DE CIENCIAS",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "STAB VIDA INVESTIGACAO E SERVICOS EM CIENCIAS BIOLOGICAS LDA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "734790",
+      "Institution": "Sloan-Kettering Institute for Cancer Research CORPORATION",
+      "Pays": "États-Unis",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "RESPUBLIKA ONKOLOGIYA ILMIY MARKAZI",
+      "Pays": "Ouzbékistan",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "MILLI ONKOLOGIYA MERKEZI",
+      "Pays": "Azerbaïdjan",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "FEDERAL UNIVERSITY OF AGRICULTURE ABEOKUTA",
+      "Pays": "Nigéria",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "PARSEQ LAB CO LTD",
+      "Pays": "Russie",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "UNIVERSITY OF TECHNOLOGY SYDNEY",
+      "Pays": "Australie",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "UNIVERSITE HASSAN II DE CASABLANCA",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "GENOLOGICA MEDICA SL",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "UNIVERSITY OF HULL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "UNIVERSIDAD SAN MARTIN DE PORRES ASOCIACION",
+      "Pays": "Pérou",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "FUNDACAO DA FACULDADE DE CIENCIAS DA UNIVERSIDADE DE LISBOA FP",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "Institut Pasteur Du Maroc",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734790",
+      "Institution": "GENETIKS SAGLIK HIZMETLERI TICARETLIMITED SIRKETI",
+      "Pays": "Turquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "UNIWERSYTET JAGIELLONSKI",
+      "Pays": "Pologne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734790",
+      "Institution": "INSTITUT ZA ONKOLOGIJU I RADIOLOGIJU SRBIJE",
+      "Pays": "Serbie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "FONDAZIONE ENI ENRICO MATTEI",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "GKSS FORSCHUNGSZENTRUM GEESTHACHT GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "MEDIAS FRANCE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "PAUL SCHERRER INSTITUT",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "ISTITUTO NAZIONALE DI OCEANOGRAFIA E DI GEOFISICA SPERIMENTALE",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "HELLENIC CENTRE FOR MARINE RESEARCH",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITAT POLITECNICA DE CATALUNYA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITY OF EAST ANGLIA",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "DANMARKS METEOROLOGISKE INSTITUT.",
+      "Pays": "Danemark",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "CLU SRL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "ISTITUTO NAZIONALE DI GEOFISICA E VULCANOLOGIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "36961",
+      "Institution": "CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "FUNDACION CENTRO DE ESTUDIOS AMBIENTALES DEL MEDITERRANEO",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITY OF CRETE.",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSIDAD COMPLUTENSE DE MADRID.",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "INSTITUTE OF ACCELERATING SYSTEMS AND APPLICATIONS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "CONSIGLIO NAZIONALE DELLE RICERCHE",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "POTSDAM INSTITUT FUER KLIMAFOLGENFORSCHUNG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "CENTRE DE COOPERATION INTERNATIONALE EN RECHERCHE AGRONOMIQUE POUR LE DEVELOPPEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE (CNRS)",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSIDAD POLITECNICA DE MADRID",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "WORLD HEALTH ORGANISATION REGIONAL OFFICE FOR EUROPE",
+      "Pays": "Danemark",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "NATURAL ENVIRONMENT RESEARCH COUNCIL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "NATIONAL OBSERVATORY OF ATHENS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "INSTITUT NATIONAL DES SCIENCES ET TECHNOLOGIES DE LA MER",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITY OF HAIFA.",
+      "Pays": "Israël",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITAET FUER BODENKULTUR WIEN",
+      "Pays": "Autriche",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "COMMISSION OF THE EUROPEAN COMMUNITIES - DIRECTORATE GENERAL JOINT RESEARCH CENTRE - JRC",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "FUNDACIO PRIVADA PARC CIENTIFIC DE BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "AZIENDA UNITA SANITARIA LOCALE ROMA E",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "METEO-FRANCE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "MET OFFICE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITA DEGLI STUDI DELLA TUSCIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITY OF YORK.",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "THE UNIVERSITY OF BIRMINGHAM",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "NATIONAL AND KAPODISTRIAN UNIVERSITY OF ATHENS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "TEL AVIV UNIVERSITY",
+      "Pays": "Israël",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSIDAD DE ALCALA DE HENARES",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITAT DE LES ILLES BALEARS",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "INSTITUTO DE CIENCIA APLICADA E TECNOLOGIA DA FACULDADE DE CIENCIAS DA UNIVERSIDADE DE LISBOA.",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITAET HAMBURG.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "PANEPISTIMIO AIGAIOU",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "CENTRE FOR ENVIRONMENT AND DEVELOPMENT FOR THE ARAB REGION AND EUROPE",
+      "Pays": "Égypte",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITAET BERN",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITA DEGLI STUDI DELL'AQUILA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "FREIE UNIVERSITAET BERLIN",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITA DEL SALENTO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "EUROPEAN CLIMATE FORUM",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "VERENIGING VOOR CHRISTELIJK HOGER ONDERWIJS WETENSCHAPPELIJK ONDERZOEK EN PATIENTENZORG",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "THE HEBREW UNIVERSITY OF JERUSALEM",
+      "Pays": "Israël",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSIDADE DE SANTIAGO DE COMPOSTELA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "ASSOCIATION DE RECHERCHE SUR LE CLIMAT ET L'ENVIRONNEMENT",
+      "Pays": "Algérie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "INTERNATIONAL CENTRE FOR AGRICULTURAL RESEARCH IN THE DRY AREAS",
+      "Pays": "Syrie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSITY OF SOUTHAMPTON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "BEN GURION UNIVERSITY OF THE NEGEV.",
+      "Pays": "Israël",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "ALMA MATER STUDIORUM-UNIVERSITA DI BOLOGNA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "CENTRO EURO-MEDITERRANEO PER I CAMBIAMENTI CLIMATICI SCARL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "ZADIG SRL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "SEI OXFORD OFFICE LIMITED",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "AGENZIA NAZIONALE PER LE NUOVE TECNOLOGIE, L'ENERGIA E LO SVILUPPO ECONOMICO SOSTENIBILE",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "FONDATION DE RECHERCHE POUR LE DEVELOPPEMENT DURABLE ET DES RELATIONS INTERNATIONALES",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "THE CYPRUS INSTITUTE",
+      "Pays": "Chypre",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "MAX PLANCK GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "36961",
+      "Institution": "UNIVERSIDAD DEL PAIS VASCO / EUSKAL HERRIKO UNIBERTSITATEA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "UNIVERSITY OF EDINBURGH",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "CENTRE DE COOPERATION INTERNATIONALE EN RECHERCHE AGRONOMIQUE POUR LE DEVELOPPEMENT - CIRAD",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "INSTITUT AGRONOMIQUE ET VETERINAIRE HASSAN II",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "INSTITUT SENEGALAIS DE RECHERCHES AGRICOLES",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "Rijksuniversiteit Utrecht",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "UNIVERSIDADE NOVA DE LISBOA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "UNIVERSITY OF YORK",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "ECOLE NATIONALE DE MEDICINE VETERINAIRE",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "Forschungsinstitut Borstel - Institutfür Experimentelle Biologie und Medizin",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "UNIVERSITY OF GLASGOW",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "Centre International de Recherche-Développement sur l'Elevage en Zone Subhumides",
+      "Pays": "Burkina Faso",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "University of Zimbabwe",
+      "Pays": "Zimbabwe",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "ROSLIN INSTITUTE (EDINBURGH)",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "UNIVERSITY OF EDINBURGH",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "Royal Veterinary College",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "Universidad de Extremadura",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "University of Khartoum",
+      "Pays": "Soudan",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950009",
+      "Institution": "Agricultural Research Council",
+      "Pays": "Afrique du Sud",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "GENE930046",
+      "Institution": "St Mary's Hospital Medical School",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "GENE930046",
+      "Institution": "GENETHON III",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "GENE930046",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "GENE930046",
+      "Institution": "MEDICAL RESEARCH COUNCIL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950003",
+      "Institution": "INSTITUT AGRONOMIQUE ET VETERINAIRE HASSAN II",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950003",
+      "Institution": "Institut Pasteur de Tunis",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950003",
+      "Institution": "Rijksuniversiteit Utrecht",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950003",
+      "Institution": "UNIVERSITY OF YORK",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18950003",
+      "Institution": "UNIVERSITY OF GLASGOW",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "IC18950003",
+      "Institution": "Universität Bern",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18970252",
+      "Institution": "INSTITUT AGRONOMIQUE ET VETERINAIRE HASSAN II",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18970252",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "IC18970252",
+      "Institution": "Hellenic Pasteur Institute",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18970252",
+      "Institution": "Institut Pasteur de Tunis",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "IC18970252",
+      "Institution": "MICROFAR - Associaçao para o Desenvolvimento de Vacinas e Produtos Imunologicos",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "20715",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI972686",
+      "Institution": "Institut Pasteur",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "FMBI972686",
+      "Institution": "Not available",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITY OF KEELE ROYAL CHARTER",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "LIVERPOOL SCHOOL OF TROPICAL MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "IMPERIAL COLLEGE OF SCIENCE TECHNOLOGY AND MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "228421",
+      "Institution": "ISTITUTO SUPERIORE DI RICERCA E FORMAZIONE SUI MATERIALI SPECIALI PERTECNOLOGIE AVANZATE SCRL IN BREVE ISRIM S.CONS. A R.L.",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "EUROPEAN MOLECULAR BIOLOGY LABORATORY",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "STICHTING RADBOUD UNIVERSITEIT",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "INSTITUTO DE HIGIENE E MEDICINA TROPICAL",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "CENTRO AGRICOLTURA E AMBIENTE GIORGIO NICOLI SRL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITA DEGLI STUDI DI CAMERINO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "ISTITUTO SUPERIORE DI SANITA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITA DEGLI STUDI DI NAPOLI FEDERICO II",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "IDRYMA TECHNOLOGIAS KAI EREVNAS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "INSTITUT PASTEUR DE DAKAR",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "MED BIOTECH LABORATORIES",
+      "Pays": "Ouganda",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "THE INTERNATIONAL CENTRE OF INSECT PHYSIOLOGY AND ECOLOGY LBG",
+      "Pays": "Kenya",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITA DEGLI STUDI DI PAVIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "Organisation de Coordination pour la lutte contre les Endémies en Afrique Centrale",
+      "Pays": "Cameroun",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "GEOPONIKO PANEPISTIMION ATHINON",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "MINISTERE DE LA SANTE",
+      "Pays": "Burkina Faso",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITATSKLINIKUM HEIDELBERG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "CENTRE NATIONAL DE RECHERCHE SCIENTIFIQUE ET TECHNOLOGIQUE*INSTITUT DE RECHERCHE EN SCIENCES DE LA SANTE",
+      "Pays": "Burkina Faso",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "WAGENINGEN UNIVERSITY",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITY OF GLASGOW",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITA DEGLI STUDI DI PERUGIA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "Oxitec Limited",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE CNRS",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "UNIVERSITA DEGLI STUDI DI ROMA LA SAPIENZA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "228421",
+      "Institution": "STOCKHOLMS UNIVERSITET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "754550",
+      "Institution": "ECRIN EUROPEAN CLINICAL RESEARCH INFRASTRUCTURE NETWORK",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "Associacio Catalana d'Empreses de Biotecnologia",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "Centre Cívic Urgell",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "FUNDACIO INSTITUCIO DELS CENTRES DE RECERCA DE CATALUNYA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "MULTIMEDICA SPA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "Generalitat de Catalunya. Direcció General d'Afers Religiosos",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "FUNDACIO CATALANA PER A LA RECERCA I LA INNOVACIO",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "CAREERS RESEARCH AND ADVISORY CENTRE (CRAC) LIMITED (THE)",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "UNIVERSIDADE NOVA DE LISBOA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "AGENCIA DE GESTIO D'AJUTS UNIVERSITARIS I DE RECERCA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "TRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK",
+      "Pays": "États-Unis",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "CONSORCI INSTITUT D'INVESTIGACIONS BIOMEDIQUES AUGUST PI I SUNYER",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "754550",
+      "Institution": "UNIVERSITAT DE BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "University of Calgary",
+      "Pays": "Canada",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "HOSPITAL CLINIC DE BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "BIOCAT LA FUNDACIO BIOREGIO DE CATALUNYA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "KING'S COLLEGE HOSPITAL NHS FOUNDATION TRUST",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "754550",
+      "Institution": "DEPARTAMENT DE SALUT - GENERALITAT DE CATALUNYA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "245872",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "245872",
+      "Institution": "THE STEPHAN ANGELOFF INSTITUTE OF MICROBIOLOGY, BULGARIAN ACADEMY OF SCIENCES",
+      "Pays": "Bulgarie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "245872",
+      "Institution": "Institut National d'Hygiène",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "245872",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "245872",
+      "Institution": "INSTITUT PASTEUR D ALGERIE E.P.I.C.",
+      "Pays": "Algérie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "245872",
+      "Institution": "FORSCHUNGSZENTRUM BORSTEL",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "245872",
+      "Institution": "INSTITUTO ARAGONES DE CIENCIAS DE LA SALUD",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "CENTRE DE COOPERATION INTERNATIONALE EN RECHERCHE AGRONOMIQUE POUR LE DEVELOPPEMENT - CIRAD",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "EMBRAPA - EMPRESA BRASILEIRA DE PESQUISA AGROPECUARIA",
+      "Pays": "Brésil",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "INSTITUT SENEGALAIS DE RECHERCHES AGRICOLES",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "INTERNATIONAL TRYPANOTOLERANCE CENTRE",
+      "Pays": "Gambie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UTRECHT UNIVERSITY",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSIDADE NOVA DE LISBOA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF YORK",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF ZIMBABWE",
+      "Pays": "Zimbabwe",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF GLASGOW",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "INTERNATIONAL LIVESTOCK RESEARCH INSTITUTE",
+      "Pays": "Kenya",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF EDINBURGH",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "MAKERERE UNIVERSITY",
+      "Pays": "Ouganda",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "ECOLE NATIONALE DE MEDICINE VETERINAIRE",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "RESEARCH CENTER BORSTEL, CENTER FOR MEDICINE AND BIOLOGICAL SCIENCE",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSIDAD DE ZARAGOZA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITE DE NEUCHATEL",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF EDINBURGH",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "REGIONAL HYGIENE INSTITUTE",
+      "Pays": "Tchéquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "INSTITUTE OF MOLECULAR BIOLOGY - SLOVAK ACADEMY OF SCIENCES",
+      "Pays": "Slovaquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF BAHR EL GHAZAL",
+      "Pays": "Soudan",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "MEDVET LABORATORIES LTD",
+      "Pays": "Ouganda",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSIDADE EDUARDO MONDLANE",
+      "Pays": "Mozambique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "AGRICULTURAL RESEARCH COUNCIL",
+      "Pays": "Afrique du Sud",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF MIDRAND",
+      "Pays": "Afrique du Sud",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "CENTRO DE INGENIERIA GENETICA Y BIOTECNOLGIA",
+      "Pays": "Cuba",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSIDADE ESTADUAL PAULISTA",
+      "Pays": "Brésil",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSIDADE DE SAO PAULO",
+      "Pays": "Brésil",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF EXTREMADURA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITA DEGLI STUDI DI BARI",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "ICA4-CT-2000-30006",
+      "Institution": "UNIVERSITY OF CRETE",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "KIMRON VETERINARY INSTITUTE",
+      "Pays": "Israël",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "International Livestock Research Institute",
+      "Pays": "Kenya",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "INSTITUT AGRONOMIQUE ET VETERINAIRE HASSAN II",
+      "Pays": "Maroc",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "FRIEDRICH LOEFFLER INSTITUT - BUNDESFORSCHUNGSINSTITUT FUER TIERGESUNDHEIT",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "INSTITUT SENEGALAIS DE RECHERCHES  AGRICOLES",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "ENVIRONMENTAL RESEARCH GROUP OXFORD LIMITED",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "STATENS VETERINAERMEDICINSKA ANSTALT",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "UNIVERSITE LIBRE DE BRUXELLES",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "UNIVERSIDAD COMPLUTENSE DE MADRID",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "ISTITUTO ZOOPROFILATTICO SPERIMENTALE DELL'ABRUZZO E DEL MOLISE G CAPORALE",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "CENTRE DE COOPERATION INTERNATIONALE EN RECHERCHE AGRONOMIQUE POUR LEDEVELOPPEMENT - C.I.R.A.D. EPIC",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "THE UNIVERSITY OF NOTTINGHAM",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "727393",
+      "Institution": "THE PIRBRIGHT INSTITUTE LBG",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "UNIVERSITY OF GLASGOW",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "KAFKAS UNIVERSITESI",
+      "Pays": "Turquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "INSTITUT NATIONAL DE RECHERCHE POUR L'AGRICULTURE, L'ALIMENTATION ET L'ENVIRONNEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "727393",
+      "Institution": "AGENCE NATIONALE DE LA SECURITE SANITAIRE DE L ALIMENTATION DE L ENVIRONNEMENT ET DU TRAVAIL",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "727393",
+      "Institution": "STICHTING WAGENINGEN RESEARCH",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734486",
+      "Institution": "SWANSEA UNIVERSITY",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734486",
+      "Institution": "BACMINE SL",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "734486",
+      "Institution": "NATIONAL SCIENCE & TECHNOLOGY DEVELOPMENT AGENCY",
+      "Pays": "Thaïlande",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "734486",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "734486",
+      "Institution": "WAGENINGEN UNIVERSITY",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "Swiss Tropical and Public Health Institute",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "CZVeterinaria",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "Wellcome Trust Sanger Institute",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "BMD SOFTWARE LDA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "GLAXOSMITHKLINE SA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "Pharmidex",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "CORIS BIOCONCEPT SPRL",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "FUNDACION PRIVADA INSTITUTO DE SALUD GLOBAL BARCELONA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "642609",
+      "Institution": "VERDI-R&D",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "Médecins Sans Frontières",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "Synprosis",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "AGENCIA ESTATAL CONSEJO SUPERIOR DE INVESTIGACIONES CIENTIFICAS",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "UNIVERSIDADE NOVA DE LISBOA",
+      "Pays": "Portugal",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "Hospital Veterinari Canis",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "LONDON SCHOOL OF HYGIENE AND TROPICAL MEDICINE ROYAL CHARTER",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "FOUNDATION FOR INNOVATIVE NEW DIAGNOSTICS",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "Microsens Diagnostics Ltd",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "KAROLINSKA INSTITUTET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "UNIVERSITY OF GONDAR",
+      "Pays": "Éthiopie",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "BIOGENTS AG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "THE UNIVERSITY OF WARWICK",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "Aptum Biologics Ltd",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "UNIVERZITA KARLOVA",
+      "Pays": "Tchéquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "UNIVERSITY COLLEGE LONDON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "INSTITUT DE RECHERCHE POUR LE DEVELOPPEMENT",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "642609",
+      "Institution": "InBios International, Inc",
+      "Pays": "États-Unis",
+      "Equipe": "",
+      "Role": "partner"
+    },
+    {
+      "id": "642609",
+      "Institution": "PRINS LEOPOLD INSTITUUT VOOR TROPISCHE GENEESKUNDE",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "EDI Experimentelle Diagnostische Immunologie GmbH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "NATURWISSENSCHAFTLICHES UND MEDIZINISCHES INSTITUT AN DER UNIVERSITAET TUEBINGEN",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "FONDAZIONE ANDREA CESALPINO*",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "Ministry of Health and Population",
+      "Pays": "Égypte",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "Ain Shams University Asu Faculty of Medecine",
+      "Pays": "Égypte",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "STICHTING HET NEDERLANDS KANKER INSTITUUT-ANTONI VAN LEEUWENHOEK ZIEKENHUIS",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "261365",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "261365",
+      "Institution": "GENERAL ORGANIZATION FOR TEACHING HOSPITALS AND INSTITUTES",
+      "Pays": "Égypte",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "WESTFAELISCHE WILHELMS-UNIVERSITAET MUENSTER",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "INSTITUT PASTEUR DE TUNIS",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "BYS GRUP BILISIM SISTEMLERI DANISMANLIK TICARET VE SANAYI ANONIM SIRKETI",
+      "Pays": "Turquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "INSTITUTUL DE VIRUSOLOGIE STEFAN S. NICOLAU",
+      "Pays": "Roumanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "AIT AUSTRIAN INSTITUTE OF TECHNOLOGY GMBH",
+      "Pays": "Autriche",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "VERISK ANALYTICS GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "ETHNIKO KAI KAPODISTRIAKO PANEPISTIMIO ATHINON",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "SATWAYS - PROIONTA KAI YPIRESIES TILEMATIKIS DIKTYAKON KAI TILEPIKINONIAKON EFARMOGON ETAIRIA PERIORISMENIS EFTHINIS EPE",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "ETHNIKOS ORGANISMOS DIMOSIAS YGEIAS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "ZDRAVSTVENI DOM DR ADOLFA DROLCA MARIBOR",
+      "Pays": "Slovénie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "BEIA CONSULT INTERNATIONAL SRL",
+      "Pays": "Roumanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "ASSISTANCE PUBLIQUE HOPITAUX DE PARIS",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "OBSERVATOIRE NATIONAL DES MALADIES NOUVELLES ET EMERGENTES",
+      "Pays": "Tunisie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "INNOSYSTEMS SYMVOULEUTIKES YPIRESIES KAI EFARMOGES PLIROFORIKIS YPSILIS TECHNOLOGIAS MONOPROSOPI IDIOTIKI KEFALAIOUCHIKI ETAIREIA",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "CRISISPLAN BV",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "AYUNTAMIENTO DE VALENCIA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "MINISTRY OF HEALTH",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "CRUZ ROJA ESPANOLA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "JOHANNITER OSTERREICH AUSBILDUNG UND FORSCHUNG GEMEINNUTZIGE GMBH",
+      "Pays": "Autriche",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "FUNDACION TECNOLOGIAS SOCIALES",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "thirdParty"
+    },
+    {
+      "id": "883441",
+      "Institution": "SQUAREDEV",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "EXUS SOFTWARE MONOPROSOPI ETAIRIA PERIORISMENIS EVTHINIS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "883441",
+      "Institution": "EIGEN VERMOGEN VAN HET INSTITUUT VOOR LANDBOUW- EN VISSERIJONDERZOEK",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "Department of Health",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "UNIVERZA V MARIBORU",
+      "Pays": "Slovénie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "TECHNOLOGICKA PLATFORMA ENERGETICKABEZPECNOST CR ZS",
+      "Pays": "Tchéquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "FUNDACION DE LA COMUNIDAD VALENCIANA PARA LA INVESTIGACION, PROMOCION Y ESTUDIOS COMERCIALES DE VALENCIAPORT",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "MCS DATALABS",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "Turkiye Cumhuriyeti Saglik Bakanligi",
+      "Pays": "Turquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "TRILATERAL RESEARCH LTD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "ISTITUTO PER L'INTERSCAMBIO SCIENTIFICO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "NACIONALINIS VISUOMENES SVEIKATOS CENTRAS PRIE SVEIKATOS APSAUGOS MINISTERIJOS",
+      "Pays": "Lituanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "BRUNEL UNIVERSITY LONDON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "MINISTRY OF THE INTERIOR OF THE CZECH REPUBLIC",
+      "Pays": "Tchéquie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "ERASMUS UNIVERSITAIR MEDISCH CENTRUM ROTTERDAM",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "INSTITUTE OF COMMUNICATION AND COMPUTER SYSTEMS",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "NETCOMPANY-INTRASOFT SA",
+      "Pays": "Luxembourg",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "FILIALA DE CRUCE ROSIE SECTOR 5",
+      "Pays": "Roumanie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "883441",
+      "Institution": "BIOCOS IKE",
+      "Pays": "Grèce",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "LEIDEN UNIVERSITY MEDICAL CENTER",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "GLAXOSMITHKLINE BIOLOGICALS S.A.",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "MAX PLANCK GESELLSCHAFT ZUR FOERDERUNG DER WISSENSCHAFTEN E.V.",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY OF BIRMINGHAM",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "ASTON UNIVERSITY",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "THE VICTORIA UNIVERSITY OF MANCHESTER",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "ID-LELYSTAD, INSTITUUT VOOR DIERHOUDERIJ EN DIERGEZONDHEID BV",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "503367",
+      "Institution": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITE LIBRE DE BRUXELLES",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "ARMAUER HANSEN RESEARCH INSTITUTE",
+      "Pays": "Éthiopie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "NATIONALBIOLOGICAL STANDARDS BOARD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "HEALTH PROTECTION AGENCY",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "STATENS SERUM INSTITUTE",
+      "Pays": "Danemark",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY OF LUEBECK",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "TECHNISCHE UNIVERSITAT OF MUNCHEN",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "NATIONAL INSTITUTE FOR INFECTIOUS DISEASES \"LAZZARO SPALLANZANI\"",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY OF PALERMO",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITE CHEIKH ANTA DIOP CHU LE DANTEC",
+      "Pays": "Sénégal",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY OF ZARAGOZA",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "INSTITUTE FOR RESEARCH IN BIOMEDICINE",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY OF GENEVA",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY HOSPITAL OF BASEL",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "HOSPICES/CHUV",
+      "Pays": "Suisse",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "FOUNDATION BIOMEDICAL PRIMATE RESEARCH CENTER",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "MEDICAL RESEARCH COUNCIL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "THE IMPERIAL COLLEGE OF SCIENCE, TECHNOLOGY AND MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "LONDON SCHOOL OF HYGIENE AND TROPICAL MEDECINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "VAKZINE PROJEKT MANEGEMENT GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITY OF CAPE TOWN",
+      "Pays": "Afrique du Sud",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "UNIVERSITAETSKLINIKUM ULM",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "FURTHER PARTICIPANTS",
+      "Pays": "Afghanistan",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "503367",
+      "Institution": "FRIEDRICH ALEXANDER UNIVERSITAT ERLANGEN-NURNBERG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "UP.1.46",
+      "Institution": "TNO/IVP-Afdel. Inst. voor Visserij Producten",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "UP.1.46",
+      "Institution": "Institut Pasteur de Lyon",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "UP.1.46",
+      "Institution": "Institut Français de Recherche pour l'Exploitation de la Mer (IFREMER)",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "GLAXOSMITHKLINE BIOLOGICALS SA",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "THE CHANCELLOR, MASTERS AND SCHOLARS OF THE UNIVERSITY OF OXFORD",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITY COLLEGE LONDON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "FONDAZIONE CENTRO SAN RAFFAELE DEL MONTE TABOR",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "INSTITUT PASTEUR",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "DEUTSCHES PRIMATENZENTRUM GMBH",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "NOVARTIS VACCINES AND DIAGNOSTIC SRL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITA DEGLI STUDI DI SIENA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "ALTA SRL",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "POLYMUN SCIENTIFIC, IMMUNBIOLOGISCHE FORSCHUNG GMBH",
+      "Pays": "Autriche",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "KING'S COLLEGE, LONDON",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "RUHR-UNIVERSITAET BOCHUM",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "IMPERIAL COLLEGE OF SCIENCE, TECHNOLOGY AND MEDICINE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "INSTITUUT VOOR TROPISCHE GENEESKUNDE",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "MEDICAL RESEARCH COUNCIL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "CENTRE NATIONAL DE LA RECHERCHE SCIENTIFIQUE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITY OF YORK",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITA DEGLI STUDI DI CAGLIARI",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "LUND UNIVERSITY",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "INSTITUTO DE SALUD CARLOS III",
+      "Pays": "Espagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITA DEGLI STUDI DI VERONA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "ROBERT KOCH-INSTITUT",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "IVANOVSKY INSTITUTE OF VIROLOGY, RUSSIAN ACADEMY OF MEDICAL SCIENCE",
+      "Pays": "Russie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "MABTECH AB",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "ST GEORGE'S HOSPITAL MEDICAL SCHOOL",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "coordinator"
+    },
+    {
+      "id": "37611",
+      "Institution": "ACADEMIC MEDICAL CENTER OF THE UNIVERSITY OF AMSTERDAM",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITY OF REGENSBURG",
+      "Pays": "Allemagne",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "SANOFI PASTEUR S.A.",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "THE CHANCELLORS, MASTERS AND SCHOLARS OF THE UNIVERSITY OF CAMBRIDGE",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "ISTITUTO SUPERIORE DI SANITA",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "OSPEDALE PEDIATRICO BAMBINO GESU",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITY OF UTRECHT",
+      "Pays": "Pays-Bas",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "INSTITUT NATIONAL DE LA SANTE ET DE LA RECHERCHE MEDICALE",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITE DE STRASBOURG",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "THE HEALTH PROTECTION AGENCY",
+      "Pays": "Royaume-Uni",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "UNIVERSITÀ DI NAPOLI FEDERICO II",
+      "Pays": "Italie",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "COMMISSARIAT À L?ÉNERGIE ATOMIQUE ET AUX ÉNERGIES ALTERNATIVES",
+      "Pays": "France",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "EUROPEAN AIDS TREATMENT GROUP E.V.",
+      "Pays": "Belgique",
+      "Equipe": "",
+      "Role": "participant"
+    },
+    {
+      "id": "37611",
+      "Institution": "KAROLINSKA INSTITUTET",
+      "Pays": "Suède",
+      "Equipe": "",
+      "Role": "participant"
+    }
+  ]
